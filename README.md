@@ -1,3 +1,4 @@
+![AI Studio Interface](screanshot.png)
 # 🧠 AI Deep Learning Studio (CNN Builder)
 
 ![Project Interface](screenshot.png)
